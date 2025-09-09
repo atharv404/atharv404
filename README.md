@@ -94,7 +94,7 @@
     <img src="https://readme-2.vercel.app//api/cards/productive-time?username=atharv404&theme=rose_pine&utcOffset=+5.5" width="340px" alt="Productive Time" />
   </div>
   <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=atharv404&theme=transparent&no-frame=true&column=6&row=1&margin-w=10" width="680px" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=yihau&theme=gruvbox&no-frame=true&column=6&row=1&margin-w=10" width="680px" alt="Trophies" />
   </div>
 </div>
 
